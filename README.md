@@ -1,3 +1,6 @@
+## Você pode conferir meus projetos em:
+Para conferir os projetos em python que já fiz, [clique aqui.](https://github.com/ThatsMiguel/CodePython/tree/master/Projetos)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ThatsMiguel/CodePython/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
