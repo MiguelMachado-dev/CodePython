@@ -4,8 +4,14 @@
 # Para mulheres: (62.1*h) - 44.7 (h = altura)
 # Peça o peso da pessoa e informe se ela está dentro, acima ou abaixo do peso.
 
-print('Seu peso ideal completo!')
-print('\n')
+print('  _____                  _____    _            _    _ ')
+print(' |  __ \                |_   _|  | |          | |  | |')
+print(' | |__) |__  ___  ___     | |  __| | ___  __ _| |  | |')
+print(' |  ___/ _ \/ __|/ _ \    | | / _` |/ _ \/ _` | |  | |')
+print(' | |  |  __/\__ \ (_) |  _| || (_| |  __/ (_| | |  |_|')
+print(' |_|   \___||___/\___/  |_____\__,_|\___|\__,_|_|  (_)')
+print('                                                      ')
+
 
 s = input('Insira seu sexo [f/m]: ').lower()
 h = float(input('Insira sua altura: '))
