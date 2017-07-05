@@ -12,5 +12,5 @@ if p > 50:
     r = p - 50
     m = 4 * r
     print('Excedente de {} KG. Você deverá pagar {} reais de multa.'.format(r, m))
-elif p <= 50:
+else:
     print('Nenhum excedente encontrado. Não há multas a se pagar.')
